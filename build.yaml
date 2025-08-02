@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: corne_left_dongle prospector_adapter
   - board: nice_nano_v2
-    shield: corne_right
+    shield: corne_right_dongle prospector_adapter
